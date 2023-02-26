@@ -1,1 +1,1 @@
-My non empty file
+Collaboration: be up to date
